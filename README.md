@@ -1,2 +1,2 @@
-# hello-world
-just one repository
+你好，我是一个初学者。
+你好，我也是一个初学者。
